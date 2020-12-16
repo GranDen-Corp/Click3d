@@ -8,4 +8,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/AsaDemo.unity
     guid: b6050e480bbb4c645b1fd1dbf2fbc824
-  m_configObjects: {}
+  m_configObjects:
+    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: e9952f7abceeada46aa165e980dc04c0,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 13d666d152401be4f81d144286a860d2,
+      type: 2}

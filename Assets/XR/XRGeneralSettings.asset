@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!114 &-3252940630849520094
+--- !u!114 &-3276233256576528857
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -9,25 +9,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ed912223f7b3af74d8e196b2a4e662b3, type: 3}
-  m_Name: 
+  m_Script: {fileID: 11500000, guid: d236b7d11115f2143951f1e14045df39, type: 3}
+  m_Name: WSA Settings
   m_EditorClassIdentifier: 
-  DepthBufferFormat: 0
-  UseSharedDepthBuffer: 1
---- !u!114 &-2828842742747906034
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3a6c5bd16b42a1542ad52d1d47746bdb, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  UsePrimaryWindowForDisplay: 1
-  HolographicRemoting: 0
+  m_LoaderManagerInstance: {fileID: 5294406834968938845}
+  m_InitManagerOnStart: 1
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -37,11 +23,26 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e679265d16d650945812b915bb9d5cc3, type: 3}
-  m_Name: Windows MR Package Settings
+  m_Script: {fileID: 11500000, guid: d2dc886499c26824283350fa532d087d, type: 3}
+  m_Name: XRGeneralSettings
   m_EditorClassIdentifier: 
   Keys: 0e000000
   Values:
-  - {fileID: -3252940630849520094}
-  BuildValues:
-  - {fileID: -2828842742747906034}
+  - {fileID: -3276233256576528857}
+--- !u!114 &5294406834968938845
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4c3631f5e58749a59194e0cf6baf6d5, type: 3}
+  m_Name: WSA Providers
+  m_EditorClassIdentifier: 
+  m_RequiresSettingsUpdate: 0
+  m_AutomaticLoading: 0
+  m_AutomaticRunning: 0
+  m_Loaders:
+  - {fileID: 11400000, guid: 2a9423f6eea96f543b923b0e4eaa26eb, type: 2}
