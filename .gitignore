@@ -537,3 +537,7 @@ Assets/MRTK/Providers/WindowsMixedReality/Shared/DotNetAdapter/.obj/
 
 # UWP deploy certificates
 Assets/*.pfx*
+
+# upm config files
+!Packages/manifest.json
+!Packages/packages-lock.json
