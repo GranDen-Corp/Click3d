@@ -1,0 +1,120 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Cha_Idol_Avatar_Mask
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Hips
+    m_Weight: 1
+  - m_Path: Hips/Left_UpperLeg
+    m_Weight: 1
+  - m_Path: Hips/Left_UpperLeg/Left_LowerLeg
+    m_Weight: 1
+  - m_Path: Hips/Left_UpperLeg/Left_LowerLeg/Left_Foot
+    m_Weight: 1
+  - m_Path: Hips/Left_UpperLeg/Left_LowerLeg/Left_Foot/Left_Toes
+    m_Weight: 1
+  - m_Path: Hips/Right_UpperLeg
+    m_Weight: 1
+  - m_Path: Hips/Right_UpperLeg/Right_LowerLeg
+    m_Weight: 1
+  - m_Path: Hips/Right_UpperLeg/Right_LowerLeg/Right_Foot
+    m_Weight: 1
+  - m_Path: Hips/Right_UpperLeg/Right_LowerLeg/Right_Foot/Right_Toes
+    m_Weight: 1
+  - m_Path: Hips/Spine_1
+    m_Weight: 1
+  - m_Path: Hips/Spine_1/Spine_2
+    m_Weight: 1
+  - m_Path: Hips/Spine_1/Spine_2/Chest
+    m_Weight: 1
+  - m_Path: Hips/Spine_1/Spine_2/Chest/Cloak
+    m_Weight: 1
+  - m_Path: Hips/Spine_1/Spine_2/Chest/Left_Shoulder
+    m_Weight: 1
+  - m_Path: Hips/Spine_1/Spine_2/Chest/Left_Shoulder/Left_Epaulets
+    m_Weight: 1
+  - m_Path: Hips/Spine_1/Spine_2/Chest/Left_Shoulder/Left_UpperArm
+    m_Weight: 1
+  - m_Path: Hips/Spine_1/Spine_2/Chest/Left_Shoulder/Left_UpperArm/Left_LowerArm
+    m_Weight: 1
+  - m_Path: Hips/Spine_1/Spine_2/Chest/Left_Shoulder/Left_UpperArm/Left_LowerArm/Bag
+    m_Weight: 1
+  - m_Path: Hips/Spine_1/Spine_2/Chest/Left_Shoulder/Left_UpperArm/Left_LowerArm/Left_Hand
+    m_Weight: 1
+  - m_Path: Hips/Spine_1/Spine_2/Chest/Left_Shoulder/Left_UpperArm/Left_LowerArm/Left_Hand/Left_Bracelet
+    m_Weight: 1
+  - m_Path: Hips/Spine_1/Spine_2/Chest/Left_Shoulder/Left_UpperArm/Left_LowerArm/Left_Hand/Left_Finger_1
+    m_Weight: 1
+  - m_Path: Hips/Spine_1/Spine_2/Chest/Left_Shoulder/Left_UpperArm/Left_LowerArm/Left_Hand/Left_Finger_1/Left_Finger_2
+    m_Weight: 1
+  - m_Path: Hips/Spine_1/Spine_2/Chest/Left_Shoulder/Left_UpperArm/Left_LowerArm/Left_Hand/Left_Finger_1/Left_Finger_2/Left_Finger_3
+    m_Weight: 1
+  - m_Path: Hips/Spine_1/Spine_2/Chest/Left_Shoulder/Left_UpperArm/Left_LowerArm/Left_Hand/Left_Index_1
+    m_Weight: 1
+  - m_Path: Hips/Spine_1/Spine_2/Chest/Left_Shoulder/Left_UpperArm/Left_LowerArm/Left_Hand/Left_Index_1/Left_Index_2
+    m_Weight: 1
+  - m_Path: Hips/Spine_1/Spine_2/Chest/Left_Shoulder/Left_UpperArm/Left_LowerArm/Left_Hand/Left_Index_1/Left_Index_2/Left_Index_3
+    m_Weight: 1
+  - m_Path: Hips/Spine_1/Spine_2/Chest/Left_Shoulder/Left_UpperArm/Left_LowerArm/Left_Hand/Left_Props
+    m_Weight: 1
+  - m_Path: Hips/Spine_1/Spine_2/Chest/Left_Shoulder/Left_UpperArm/Left_LowerArm/Left_Hand/Left_Thumb_1
+    m_Weight: 1
+  - m_Path: Hips/Spine_1/Spine_2/Chest/Left_Shoulder/Left_UpperArm/Left_LowerArm/Left_Hand/Left_Thumb_1/Left_Thumb_2
+    m_Weight: 1
+  - m_Path: Hips/Spine_1/Spine_2/Chest/Left_Shoulder/Left_UpperArm/Left_LowerArm/Left_Hand/Left_Thumb_1/Left_Thumb_2/Left_Thumb_3
+    m_Weight: 1
+  - m_Path: Hips/Spine_1/Spine_2/Chest/Neck
+    m_Weight: 1
+  - m_Path: Hips/Spine_1/Spine_2/Chest/Neck/Head
+    m_Weight: 1
+  - m_Path: Hips/Spine_1/Spine_2/Chest/Neck/Head/Hat
+    m_Weight: 1
+  - m_Path: Hips/Spine_1/Spine_2/Chest/Neck/Head/Left_Earring
+    m_Weight: 1
+  - m_Path: Hips/Spine_1/Spine_2/Chest/Neck/Head/Mask
+    m_Weight: 1
+  - m_Path: Hips/Spine_1/Spine_2/Chest/Neck/Head/Right_Earring
+    m_Weight: 1
+  - m_Path: Hips/Spine_1/Spine_2/Chest/Neck/Necklace
+    m_Weight: 1
+  - m_Path: Hips/Spine_1/Spine_2/Chest/Right_Shoulder
+    m_Weight: 1
+  - m_Path: Hips/Spine_1/Spine_2/Chest/Right_Shoulder/Right_Epaulets
+    m_Weight: 1
+  - m_Path: Hips/Spine_1/Spine_2/Chest/Right_Shoulder/Right_UpperArm
+    m_Weight: 1
+  - m_Path: Hips/Spine_1/Spine_2/Chest/Right_Shoulder/Right_UpperArm/Right_LowerArm
+    m_Weight: 1
+  - m_Path: Hips/Spine_1/Spine_2/Chest/Right_Shoulder/Right_UpperArm/Right_LowerArm/Right_Hand
+    m_Weight: 1
+  - m_Path: Hips/Spine_1/Spine_2/Chest/Right_Shoulder/Right_UpperArm/Right_LowerArm/Right_Hand/Right_Bracelet
+    m_Weight: 1
+  - m_Path: Hips/Spine_1/Spine_2/Chest/Right_Shoulder/Right_UpperArm/Right_LowerArm/Right_Hand/Right_Finger_1
+    m_Weight: 1
+  - m_Path: Hips/Spine_1/Spine_2/Chest/Right_Shoulder/Right_UpperArm/Right_LowerArm/Right_Hand/Right_Finger_1/Right_Finger_2
+    m_Weight: 1
+  - m_Path: Hips/Spine_1/Spine_2/Chest/Right_Shoulder/Right_UpperArm/Right_LowerArm/Right_Hand/Right_Finger_1/Right_Finger_2/Right_Finger_3
+    m_Weight: 1
+  - m_Path: Hips/Spine_1/Spine_2/Chest/Right_Shoulder/Right_UpperArm/Right_LowerArm/Right_Hand/Right_Index_1
+    m_Weight: 1
+  - m_Path: Hips/Spine_1/Spine_2/Chest/Right_Shoulder/Right_UpperArm/Right_LowerArm/Right_Hand/Right_Index_1/Right_Index_2
+    m_Weight: 1
+  - m_Path: Hips/Spine_1/Spine_2/Chest/Right_Shoulder/Right_UpperArm/Right_LowerArm/Right_Hand/Right_Index_1/Right_Index_2/Right_Index_3
+    m_Weight: 1
+  - m_Path: Hips/Spine_1/Spine_2/Chest/Right_Shoulder/Right_UpperArm/Right_LowerArm/Right_Hand/Right_Props
+    m_Weight: 1
+  - m_Path: Hips/Spine_1/Spine_2/Chest/Right_Shoulder/Right_UpperArm/Right_LowerArm/Right_Hand/Right_Thumb_1
+    m_Weight: 1
+  - m_Path: Hips/Spine_1/Spine_2/Chest/Right_Shoulder/Right_UpperArm/Right_LowerArm/Right_Hand/Right_Thumb_1/Right_Thumb_2
+    m_Weight: 1
+  - m_Path: Hips/Spine_1/Spine_2/Chest/Right_Shoulder/Right_UpperArm/Right_LowerArm/Right_Hand/Right_Thumb_1/Right_Thumb_2/Right_Thumb_3
+    m_Weight: 1
+  - m_Path: Hips/Tail
+    m_Weight: 1
