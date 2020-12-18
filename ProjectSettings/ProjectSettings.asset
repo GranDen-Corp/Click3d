@@ -586,7 +586,8 @@ PlayerSettings:
   scriptingRuntimeVersion: 1
   gcIncremental: 0
   gcWBarrierValidation: 0
-  apiCompatibilityLevelPerPlatform: {}
+  apiCompatibilityLevelPerPlatform:
+    Windows Store Apps: 6
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
   metroPackageName: Click3d
@@ -597,7 +598,32 @@ PlayerSettings:
   metroCertificateIssuer: GranDen Inc.
   metroCertificateNotAfter: 00cbe38c32f4d701
   metroApplicationDescription: Click 3D Demo
-  wsaImages: {}
+  wsaImages:
+    131172: Assets/UWPAssets/SplashScreen.scale-100.png
+    131197: Assets/UWPAssets/SplashScreen.scale-125.png
+    131222: Assets/UWPAssets/SplashScreen.scale-150.png
+    131272: Assets/UWPAssets/SplashScreen.scale-200.png
+    131472: Assets/UWPAssets/SplashScreen.scale-400.png
+    2031632: Assets/UWPAssets/Square44x44Logo.targetsize-16.png
+    2031640: Assets/UWPAssets/Square44x44Logo.targetsize-24.png
+    2031648: Assets/UWPAssets/Square44x44Logo.targetsize-32.png
+    2031664: Assets/UWPAssets/Square44x44Logo.targetsize-48.png
+    2031716: Assets/UWPAssets/Square44x44Logo.scale-100.png
+    2031741: Assets/UWPAssets/Square44x44Logo.scale-125.png
+    2031766: Assets/UWPAssets/Square44x44Logo.scale-150.png
+    2031816: Assets/UWPAssets/Square44x44Logo.scale-200.png
+    2031872: Assets/UWPAssets/Square44x44Logo.targetsize-256.png
+    2032016: Assets/UWPAssets/Square44x44Logo.scale-400.png
+    2162788: Assets/UWPAssets/Square150x150Logo.scale-100.png
+    2162813: Assets/UWPAssets/Square150x150Logo.scale-125.png
+    2162838: Assets/UWPAssets/Square150x150Logo.scale-150.png
+    2162888: Assets/UWPAssets/Square150x150Logo.scale-200.png
+    2163088: Assets/UWPAssets/Square150x150Logo.scale-400.png
+    2293860: Assets/UWPAssets/Wide310x150Logo.scale-100.png
+    2293885: Assets/UWPAssets/Wide310x150Logo.scale-125.png
+    2293910: Assets/UWPAssets/Wide310x150Logo.scale-150.png
+    2293960: Assets/UWPAssets/Wide310x150Logo.scale-200.png
+    2294160: Assets/UWPAssets/Wide310x150Logo.scale-400.png
   metroTileShortName: Click 3D
   metroTileShowName: 0
   metroMediumTileShowName: 0
