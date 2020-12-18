@@ -595,7 +595,7 @@ PlayerSettings:
   metroCertificatePassword: 
   metroCertificateSubject: GranDen Inc.
   metroCertificateIssuer: GranDen Inc.
-  metroCertificateNotAfter: 005ace6757f3d701
+  metroCertificateNotAfter: 00cbe38c32f4d701
   metroApplicationDescription: Click 3D Demo
   wsaImages: {}
   metroTileShortName: Click 3D
