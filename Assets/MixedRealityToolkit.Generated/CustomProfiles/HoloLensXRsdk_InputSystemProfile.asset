@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: b71cb900fa9dec5488df2deb180db58f, type: 3}
-  m_Name: AsaHoloLens2MixedRealityInputSystemProfile
+  m_Name: HoloLensXRsdk_InputSystemProfile
   m_EditorClassIdentifier: 
   isCustomProfile: 1
   dataProviderConfigurations:
@@ -19,16 +19,8 @@ MonoBehaviour:
         Microsoft.MixedReality.Toolkit.Providers.XRSDK.WindowsMixedReality
     componentName: XRSDK Windows Mixed Reality Device Manager
     priority: 0
-    runtimePlatform: 9
+    runtimePlatform: -1
     deviceManagerProfile: {fileID: 0}
-  - componentType:
-      reference: Microsoft.MixedReality.Toolkit.XRSDK.Oculus.Input.OculusXRSDKDeviceManager,
-        Microsoft.MixedReality.Toolkit.Providers.XRSDK.Oculus
-    componentName: XRSDK Oculus Device Manager
-    priority: 0
-    runtimePlatform: 33
-    deviceManagerProfile: {fileID: 11400000, guid: 8f48cb9c26fb518499c65c9f9e8bb4ed,
-      type: 2}
   - componentType:
       reference: Microsoft.MixedReality.Toolkit.Input.InputSimulationService, Microsoft.MixedReality.Toolkit.Services.InputSimulation
     componentName: Input Simulation Service
@@ -61,5 +53,5 @@ MonoBehaviour:
     type: 2}
   controllerVisualizationProfile: {fileID: 11400000, guid: 345c06fdf3732db46b96299bd3cba653,
     type: 2}
-  handTrackingProfile: {fileID: 11400000, guid: 7431150865aa69e449d1577ab3ac40bd,
+  handTrackingProfile: {fileID: 11400000, guid: 86e045a008b1ec0448d61432a1334536,
     type: 2}

@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8275efdbe76bdff49a97a8e82fba118d, type: 3}
-  m_Name: AsaHoloLens2MixedRealityHandTrackingProfile
+  m_Name: HoloLensXRsdkMRTK_HandTrackingProfile
   m_EditorClassIdentifier: 
   isCustomProfile: 1
   jointPrefab: {fileID: 1955475817299902, guid: 6a3f88d2571cd234a86d95ee5856b9ec,
@@ -21,5 +21,5 @@ MonoBehaviour:
     type: 3}
   handMeshPrefab: {fileID: 1887883006053652, guid: 308140ab26e8edd4f920cadc10af5c4f,
     type: 3}
-  handMeshVisualizationModes: 2
+  handMeshVisualizationModes: 0
   handJointVisualizationModes: 1

@@ -10,23 +10,23 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 7612acbc1a4a4ed0afa5f4ccbe42bee4, type: 3}
-  m_Name: AsaHoloLens2MixedRealityToolkitConfigurationProfile
+  m_Name: HololensXRsdkMRTK_Profile
   m_EditorClassIdentifier: 
   isCustomProfile: 1
   targetExperienceScale: 3
   enableCameraSystem: 1
-  cameraProfile: {fileID: 11400000, guid: c7d19edc5ed62ff449ffa1d86b5b631c, type: 2}
+  cameraProfile: {fileID: 11400000, guid: 609e49b3d29f25241b8c65768bb5bff6, type: 2}
   cameraSystemType:
     reference: Microsoft.MixedReality.Toolkit.CameraSystem.MixedRealityCameraSystem,
       Microsoft.MixedReality.Toolkit.Services.CameraSystem
   enableInputSystem: 1
-  inputSystemProfile: {fileID: 11400000, guid: 14b17e9f47438024c84dc1bb3fdda82c, type: 2}
+  inputSystemProfile: {fileID: 11400000, guid: 1f911c68e7f30e341b02a31c7d42bbc5, type: 2}
   inputSystemType:
     reference: Microsoft.MixedReality.Toolkit.Input.MixedRealityInputSystem, Microsoft.MixedReality.Toolkit.Services.InputSystem
   enableBoundarySystem: 1
   boundarySystemType:
     reference: Microsoft.MixedReality.Toolkit.XRSDK.XRSDKBoundarySystem, Microsoft.MixedReality.Toolkit.Providers.XRSDK
-  boundaryVisualizationProfile: {fileID: 11400000, guid: 6d28cce596b44bd3897ca86f8b24e076,
+  boundaryVisualizationProfile: {fileID: 11400000, guid: 6f42d98fb047c41438cdf4fdc9115af8,
     type: 2}
   enableTeleportSystem: 1
   teleportSystemType:
@@ -36,7 +36,7 @@ MonoBehaviour:
   spatialAwarenessSystemType:
     reference: Microsoft.MixedReality.Toolkit.SpatialAwareness.MixedRealitySpatialAwarenessSystem,
       Microsoft.MixedReality.Toolkit.Services.SpatialAwarenessSystem
-  spatialAwarenessSystemProfile: {fileID: 11400000, guid: d80fe90fe7b97924dadfac124b616d43,
+  spatialAwarenessSystemProfile: {fileID: 11400000, guid: 2e0c0403aa3820647a54789b328c7502,
     type: 2}
   diagnosticsSystemProfile: {fileID: 11400000, guid: 478436bd1083882479a52d067e98e537,
     type: 2}
